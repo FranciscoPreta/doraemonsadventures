@@ -1,0 +1,12 @@
+org/academiadecodigo/bootcamp/persistence/dao/Dao.class
+org/academiadecodigo/bootcamp/persistence/model/Achievements.class
+org/academiadecodigo/bootcamp/persistence/model/Model.class
+org/academiadecodigo/bootcamp/controllers/rest/RestUserController.class
+org/academiadecodigo/bootcamp/services/UserService.class
+org/academiadecodigo/bootcamp/persistence/model/AbstractModel.class
+org/academiadecodigo/bootcamp/persistence/model/User.class
+org/academiadecodigo/bootcamp/persistence/dao/UserDao.class
+org/academiadecodigo/bootcamp/persistence/dao/GenericDao.class
+org/academiadecodigo/bootcamp/App.class
+org/academiadecodigo/bootcamp/services/UserServiceI.class
+org/academiadecodigo/bootcamp/services/UserNotFoundException.class

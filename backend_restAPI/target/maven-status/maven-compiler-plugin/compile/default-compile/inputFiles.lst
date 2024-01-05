@@ -1,0 +1,12 @@
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/controllers/rest/RestUserController.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/persistence/model/Model.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/App.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/persistence/model/AbstractModel.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/services/UserNotFoundException.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/persistence/dao/GenericDao.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/services/UserService.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/persistence/model/Achievements.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/persistence/model/User.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/persistence/dao/UserDao.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/persistence/dao/Dao.java
+/Users/codecadet/Desktop/Hackerton/99problems-master/src/main/java/org/academiadecodigo/bootcamp/services/UserServiceI.java
